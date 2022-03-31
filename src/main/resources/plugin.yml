@@ -1,0 +1,10 @@
+main: com.onruntime.welesdevs.Welesdevs
+
+name: Welesdevs
+version: '${version}'
+
+api-version: 1.18
+
+authors: [ Jijon ]
+
+website: onruntime.com
